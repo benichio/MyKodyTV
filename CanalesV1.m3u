@@ -105,6 +105,9 @@ plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b19775
 #EXTINF:-1 tvg-id="M.#Vamos 1080p" tvg-name="M.#Vamos 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%23Vamos%201080p", M.#Vamos 1080p
 plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
+#EXTINF:-1 tvg-id="M.L. Campeones 1080 MultiAudio" tvg-name="M.L. Campeones 1080 MultiAudio" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.L.%20Campeones%201080%20MultiAudio", M.L. Campeones 1080 MultiAudio
+plugin://script.module.horus?action=play&id=0a26e20f39845e928411e09a124374fccb6e1478
+
 #EXTINF:-1 tvg-id="M. Deportes 1080p" tvg-name="M. Deportes 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20Deportes%201080p", M. Deportes 1080p
 plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
