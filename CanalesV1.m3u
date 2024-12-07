@@ -136,6 +136,9 @@ plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dc
 #EXTINF:-1 tvg-id="LA 1 1080p" tvg-name="LA 1 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LA%201%201080p", LA 1 1080p
 plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 
+#EXTINF:-1 tvg-id="LA 1 1080p" tvg-name="LA 1 UHD" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LA%201%201080p", LA 1 1080p
+plugin://script.module.horus?action=play&id=4a714c436cb67d53cf197f9038239fddab2d8b20
+
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=Real%20Madrid%20TV", Real Madrid TV
 plugin://script.module.horus?action=play&id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 
