@@ -76,30 +76,15 @@ plugin://script.module.horus?action=play&id=8677d339ecddd75165c0015025f598b62159
 plugin://script.module.horus?action=play&id=8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
 
 #EXTINF:-1 tvg-id="LaLiga TV Bar 1080p" tvg-name="LaLiga TV Bar 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LaLiga%20TV%20Bar%201080p", LaLiga TV Bar 1080p
-plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-id="LaLiga TV Bar 1080p" tvg-name="LaLiga TV Bar 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LaLiga%20TV%20Bar%201080p", LaLiga TV Bar 1080p
-plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
-
-#EXTINF:-1 tvg-id="M. LaLiga TV 1080p" tvg-name="M. LaLiga TV 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20TV%201080p", M. LaLiga TV 1080p
-plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 tvg-id="M. LaLiga TV 1080p" tvg-name="M. LaLiga TV 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20TV%201080p", M. LaLiga TV 1080p
-plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-
-#EXTINF:-1 tvg-id="M. LaLiga TV 1080p" tvg-name="M. LaLiga TV 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20TV%201080p", M. LaLiga TV 1080p
-plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 tvg-id="M. LaLiga TV 720p" tvg-name="M. LaLiga TV 720p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20TV%20720p", M. LaLiga TV 720p
-plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
-
-#EXTINF:-1 tvg-id="M. LaLiga 1080P" tvg-name="M. LaLiga 1080P" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%201080P", M. LaLiga 1080P
 plugin://script.module.horus?action=play&id=94d34491106e00394835c8cb68aa94481339b53f
 
-#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-name="M. LaLiga 1080 MultiAudio" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%201080%20MultiAudio", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-id="M. LaLiga TV 1080p Multiaudio" tvg-name="M. LaLiga TV 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20TV%201080p", M. LaLiga TV 1080p MultiAudio
 plugin://script.module.horus?action=play&id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
-#EXTINF:-1 tvg-id="M. LaLiga 720" tvg-name="M. LaLiga 720" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20720", M. LaLiga 720
+#EXTINF:-1 tvg-id="M. LaLiga 720 MultiAudio" tvg-name="M. LaLiga 720" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20720", M. LaLiga 720 MultiAudio
 plugin://script.module.horus?action=play&id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 
 
@@ -146,13 +131,10 @@ plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a231
 plugin://script.module.horus?action=play&id=d871578fc069de543d1ed8b5e63092d870bad8ee
 
 #EXTINF:-1 tvg-id="tdp 1080p (RTVE Play)" tvg-name="tdp 1080p (RTVE Play)" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=tdp%201080p%20(RTVE%20Play)", tdp 1080p (RTVE Play)
-plugin://script.module.horus?action=play&id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
 
 #EXTINF:-1 tvg-id="LA 1 1080p" tvg-name="LA 1 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LA%201%201080p", LA 1 1080p
-plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-
-#EXTINF:-1 tvg-id="LA 1 1080p" tvg-name="LA 1 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LA%201%201080p", LA 1 1080p
-plugin://script.module.horus?action=play&id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
+plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=Real%20Madrid%20TV", Real Madrid TV
 plugin://script.module.horus?action=play&id=0ec3f3786318acd8dca2588f74c3759cda76cd11
