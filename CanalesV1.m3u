@@ -7,16 +7,13 @@ plugin://script.module.horus?action=play&id=307b6e84ca9620b3f7a13af143c9e4019752
 plugin://script.module.horus?action=play&id=b545ed0de344cfb830721fb961fddb208d39d19a
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%20LaLiga%201080p", DAZN LaLiga 1080p
-plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
+plugin://script.module.horus?action=play&id=ec29289b0b14756e686c03a501bae1efa05be70c
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%20LaLiga%201080p", DAZN LaLiga 1080p
-plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%20LaLiga%201080p", DAZN LaLiga 1080p
-plugin://script.module.horus?action=play&id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
+plugin://script.module.horus?action=play&id=6de4794cd02f88f14354b5996823413a59a1de0f
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 720p" tvg-name="DAZN LaLiga 720p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%20LaLiga%20720p", DAZN LaLiga 720p
-plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+plugin://script.module.horus?action=play&id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LaLiga 2 1080 MultiAudio" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%20LaLiga%202", DAZN LaLiga 2
 plugin://script.module.horus?action=play&id=97ba38d47680954be40e48bd8f43e17222fefecb
