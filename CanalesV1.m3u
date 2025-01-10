@@ -84,7 +84,6 @@ plugin://script.module.horus?action=play&id=6d05b31e5e8fdae312fbd57897363a7b10dd
 #EXTINF:-1 tvg-id="M. LaLiga 720 MultiAudio" tvg-name="M. LaLiga 720" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.%20LaLiga%20720", M. LaLiga 720 MultiAudio
 plugin://script.module.horus?action=play&id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 
-
 #EXTINF:-1 tvg-id="LaLiga Hypermotion 1080p" tvg-name="LaLiga Hypermotion 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=LaLiga%20Hypermotion%201080p", LaLiga Hypermotion 1080p
 plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 
@@ -93,6 +92,9 @@ plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b19775
 
 #EXTINF:-1 tvg-id="M.#Vamos 1080p" tvg-name="M.#Vamos 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%23Vamos%201080p", M.#Vamos 1080p
 plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+
+#EXTINF:-1 tvg-id="M.Plus 1080p" tvg-name="M.Plus 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%23Plus%201080p", M.#Vamos 1080p
+plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-id="M.L. Campeones 1080 MultiAudio" tvg-name="M.L. Campeones 1080 MultiAudio" group-title="Deportes" tvg-logo="https://via.placeholder.com/150?text=M.L.%20Campeones%201080%20MultiAudio", M.L. Campeones 1080 MultiAudio
 plugin://script.module.horus?action=play&id=0a26e20f39845e928411e09a124374fccb6e1478
