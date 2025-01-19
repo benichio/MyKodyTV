@@ -114,6 +114,9 @@ plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e
 #EXTINF:-1 tvg-id="M. Deportes 720p" tvg-name="M. Deportes 720p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20Deportes%20720p", M. Deportes 720p
 plugin://script.module.horus?action=play&id=3a74d9869b13e763476800740c6625e715a39879
 
+#EXTINF:-1 tvg-id="M. Deportes 1080p" tvg-name="M. Deportes 2" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20Deportes%201080p", M. Deportes 2
+plugin://script.module.horus?action=play&id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+
 #EXTINF:-1 tvg-id="M. Golf 1080p" tvg-name="M. Golf 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%20Golf%201080p", M. Golf 1080p
 plugin://script.module.horus?action=play&id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
