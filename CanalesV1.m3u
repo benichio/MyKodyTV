@@ -91,7 +91,7 @@ plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664
 plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b197750980
 
 #EXTINF:-1 tvg-id="M.#Vamos 1080p" tvg-name="M.#Vamos 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%23Vamos%201080p", M.#Vamos 1080p
-plugin://script.module.horus?action=play&id=c6b52ffb3b84836d334569204797d88bf15d48fa
+plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 #EXTINF:-1 tvg-id="M.#Vamos 720p" tvg-name="M.#Vamos 720p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=M.%23Vamos%201080p", M.#Vamos 720p
 plugin://script.module.horus?action=play&id=12ba546d229bc39f01c3c18988a034b215fe6adb
