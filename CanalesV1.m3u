@@ -25,7 +25,7 @@ plugin://script.module.horus?action=play&id=51dbbfb42f8091e4ea7a2186b566a40e7809
 plugin://script.module.horus?action=play&id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 
 #EXTINF:-1 tvg-id="DAZN 1 1080p" tvg-name="DAZN 1 1080p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%201%201080p", DAZN 1 1080p
-plugin://script.module.horus?action=play&id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1 tvg-id="DAZN 1 720p" tvg-name="DAZN 1 720p" group-title="Deportes ES" tvg-logo="https://via.placeholder.com/150?text=DAZN%201%20720p", DAZN 1 720p
 plugin://script.module.horus?action=play&id=35c7f0c966ecde3390f4510bb4caded40018c07a
